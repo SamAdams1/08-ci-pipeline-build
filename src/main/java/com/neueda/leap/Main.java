@@ -8,3 +8,5 @@ public class Main {
         Thread.sleep(600_000);
     }
 }
+
+// Hello does the polling work in Jenkins?
